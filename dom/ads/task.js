@@ -14,7 +14,7 @@ const add = (i) => {
    // const sv =  rotatorItem[i].getAttribute("data-speed");
    // console.log(sv)
 }
-
+//test
 setInterval( () => {
     remove()
     if (showrotator === rotatorItem.length - 1) {
